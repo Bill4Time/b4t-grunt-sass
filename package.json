@@ -1,13 +1,12 @@
 {
-	"name": "grunt-sass",
+	"name": "b4t-grunt-sass",
 	"version": "3.1.0",
 	"description": "Compile Sass to CSS using node-sass",
 	"license": "MIT",
-	"repository": "sindresorhus/grunt-sass",
+	"repository": "Bill4Time/b4t-grunt-sass",
 	"author": {
-		"name": "Sindre Sorhus",
-		"email": "sindresorhus@gmail.com",
-		"url": "sindresorhus.com"
+		"name": "Dema P",
+		"email": "dema@bill4time.com",
 	},
 	"engines": {
 		"node": ">=20"
