@@ -1,12 +1,15 @@
 {
-	"name": "b4t-grunt-sass",
+	"name": "@bill4time/b4t-grunt-sass",
 	"version": "3.1.0",
-	"description": "Compile Sass to CSS using node-sass",
+	"description": "Bill4Time flavor of grunt-sass",
 	"license": "MIT",
-	"repository": "Bill4Time/b4t-grunt-sass",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Bill4Time/b4t-grunt-sass.git"
+	},
 	"author": {
 		"name": "Dema P",
-		"email": "dema@bill4time.com",
+		"email": "dema@bill4time.com"
 	},
 	"engines": {
 		"node": ">=20"
